@@ -39,4 +39,12 @@
   THis will launch the Chrome Web Browser and link to the LOCAL HOST where the "test server" is pointed.
 
 ## Tenth Commit
+  Ran: npm install karma-jasmine --save-dev
+  Installs Karma adapter plugin for the Jasmine testing framework.
   
+## Eleventh Commit
+  Ran: npm install karma-mocha-reporter --save-dev
+  Installs Karma reporter that has presents logs stylized in Mocha.  This is set as a dependency in the local package.
+  json file.
+  
+## Twelfth Commit 
