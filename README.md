@@ -63,3 +63,6 @@
   ESlint rules installed as plugin for TSlint
 
 ## Fifteenth Commit
+  Ran: npm install @types/jasmine --save-dev
+  Installs a package containing type definitions for Jasmine
+
