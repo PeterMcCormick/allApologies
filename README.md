@@ -42,9 +42,12 @@
   Ran: npm install karma-jasmine --save-dev
   Installs Karma adapter plugin for the Jasmine testing framework.
   
-## Eleventh Commit
   Ran: npm install karma-mocha-reporter --save-dev
   Installs Karma reporter that has presents logs stylized in Mocha.  This is set as a dependency in the local package.
   json file.
+  
+## Eleventh Commit
+  Ran: npm install karma-remap-istanbul --save-dev
+  Allows for remapping reports on watch by calling remap-istanbul.  This is a dev dependency like others above.
   
 ## Twelfth Commit 

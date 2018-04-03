@@ -40,6 +40,7 @@
     "karma-chrome-launcher": "^2.2.0",
     "karma-jasmine": "^1.1.1",
     "karma-mocha-reporter": "^2.2.5",
+    "karma-remap-istanbul": "^0.6.0",
     "typescript": "~2.6.2"
   },
   "description": "An Ionic project"
