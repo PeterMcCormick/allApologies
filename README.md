@@ -12,4 +12,9 @@
      compatible browsers (Chrome, Firefox, Safari, PhantomJS, JSDOM, Opera, IE, SauceLabs, BrowserStack)
   Karma is useful if you like to run tests in the terminal, execute tests.
   
-   
+## Fourth Commit
+  Ran: sudo npm install -g @angular/cli@latest
+  Installs latest version of the angular client which we will need to operate tests in an angular environment.
+  
+## Fifth Commit
+
