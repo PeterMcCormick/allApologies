@@ -69,3 +69,11 @@
 ## Sixteenth Commit
   Ran: npm install @types/node --save-dev
   Installs a package containing type definitions for node.js .
+
+## Seventeenth Commit
+  Ran: karma init karma.config.js  (prompts with which framework we want to use)  jasmine should be selected
+    (do you want to use Require.js)  no     (Do you want to capture any browsers automatically) chrome  then enterblank
+    (what is the location of your source and test files)
+  Creates a config file for karma.     (karma.config.js)
+  
+## Eighteenth Commit
