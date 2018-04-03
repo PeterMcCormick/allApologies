@@ -57,3 +57,9 @@
 ## Thirteenth Commit 
   Ran: npm install tslint --save-dev
   A static analysis tool that checks TS code for errors.  
+
+## Fourteenth Commit
+  Ran: npm install tslint-eslint-rules --save-dev
+  ESlint rules installed as plugin for TSlint
+
+## Fifteenth Commit
