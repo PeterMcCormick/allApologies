@@ -143,4 +143,4 @@
 ENOENT: no such file or directory, stat '/Users/petermccormick/Dev/Peter/Week9Labs/sorryAttempt/src/tsconfig.test.json'
 Error: ENOENT: no such file or directory, stat '/Users/petermccormick/Dev/Peter/Week9Labs/sorryAttempt/src/tsconfig.test.json'
 
-
+AT SOME POINT A SECOND SRC FOLDER WAS ADDED.  I HAVE CHANGED UP THE FILES TO BE IN THE SOLE SRC FOLDER.
