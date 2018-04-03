@@ -51,3 +51,8 @@
   Allows for remapping reports on watch by calling remap-istanbul.  This is a dev dependency like others above.
   
 ## Twelfth Commit 
+  Ran: npm install ts-node --save-dev
+  A TS execution environment and  Read-Eval-Print-Loop for node.  Executes TS files through node.
+  
+## Thirteenth Commit 
+  Ran: 

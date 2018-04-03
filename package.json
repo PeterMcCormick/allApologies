@@ -41,6 +41,7 @@
     "karma-jasmine": "^1.1.1",
     "karma-mocha-reporter": "^2.2.5",
     "karma-remap-istanbul": "^0.6.0",
+    "ts-node": "^5.0.1",
     "typescript": "~2.6.2"
   },
   "description": "An Ionic project"
