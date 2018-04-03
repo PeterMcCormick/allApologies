@@ -77,4 +77,12 @@
   Creates a config file for karma.     (karma.config.js)
   
 ## Eighteenth Commit
-  Congifured karma.config.js file to reflect the 
+  Congifured karma.config.js file to reflect 
+  
+## Nineteenth Commit 
+  Added April_3_2017_karma_config_js for clarification 
+  Added angular-cli.json and used configs from 
+  https://www.joshmorony.com/introduction-to-testing-ionic-2-applications-with-testbed/
+  
+## Twentieth Commit
+  
