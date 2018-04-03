@@ -34,4 +34,9 @@
   Installs Karma as a dev dependency in your local repository.  It will be shown in package.JSON
 
 ## Ninth Commit
-  Ran: npm
+  Ran: npm install karma-chrome-launcher --save-dev
+  Install Karma Chrome Launcher as a dev dependency in the local package.JSON file.
+  THis will launch the Chrome Web Browser and link to the LOCAL HOST where the "test server" is pointed.
+
+## Tenth Commit
+  
