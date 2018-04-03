@@ -17,4 +17,6 @@
   Installs latest version of the angular client which we will need to operate tests in an angular environment.
   
 ## Fifth Commit
-
+  Ran: npm install codecov --save-dev
+  Installs Codecov, a code coverage addin that "Upload reports with one line"
+  
