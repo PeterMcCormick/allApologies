@@ -88,4 +88,59 @@
   Made these changes shown in the changelog.  
 
 ## Twenty-first Commit
+  Changed karma.config.js file with the following  frameworks: ['jasmine', '@angular/cli'],
+  require('@angular/cli/plugins/karma')   
+  preprocessors: {
+        './src/test.ts': ['@angular/cli']
+      },
+  We should get an error like so:
   
+  
+  
+  Environment configuration does not contain "environmentSource" entry.
+  
+  A new environmentSource entry replaces the previous source entry inside environments.
+  
+  To migrate angular-cli.json follow the example below:
+  
+  Before:
+  
+  "environments": {
+    "source": "environments/environment.ts",
+    "dev": "environments/environment.ts",
+    "prod": "environments/environment.prod.ts"
+  }
+  
+  
+  After:
+  
+  "environmentSource": "environments/environment.ts",
+  "environments": {
+    "dev": "environments/environment.ts",
+    "prod": "environments/environment.prod.ts"
+  }
+  npm ERR! Test failed.  See above for more details.
+
+       /////////////////////SOLUTION\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+       
+       open angular-cli.json
+       find-
+       
+       "environments": {
+       "source": "environments/environment.ts",
+       "dev": "environments/environment.ts",
+       "prod": "environments/environment.prod.ts"
+       }
+       
+       and replace with:
+       
+       "environmentSource": "environments/environment.ts",
+       "environments": {
+       "dev": "environments/environment.ts",
+       "prod": "environments/environment.prod.ts"
+       }
+
+ENOENT: no such file or directory, stat '/Users/petermccormick/Dev/Peter/Week9Labs/sorryAttempt/src/tsconfig.test.json'
+Error: ENOENT: no such file or directory, stat '/Users/petermccormick/Dev/Peter/Week9Labs/sorryAttempt/src/tsconfig.test.json'
+
+
