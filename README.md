@@ -77,3 +77,4 @@
   Creates a config file for karma.     (karma.config.js)
   
 ## Eighteenth Commit
+  Congifured karma.config.js file to reflect the 
