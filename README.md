@@ -29,3 +29,9 @@
   Ran: npm install jasmine-spec-reporter --save-dev
   Installs Jasmine Spec Reporter which gives real time reporting within the console about tests.  
   
+## Eigth Commit
+  Ran: npm install karma --save-dev
+  Installs Karma as a dev dependency in your local repository.  It will be shown in package.JSON
+
+## Ninth Commit
+  Ran: npm
