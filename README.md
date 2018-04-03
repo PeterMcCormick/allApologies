@@ -55,4 +55,5 @@
   A TS execution environment and  Read-Eval-Print-Loop for node.  Executes TS files through node.
   
 ## Thirteenth Commit 
-  Ran: 
+  Ran: npm install tslint --save-dev
+  A static analysis tool that checks TS code for errors.  
