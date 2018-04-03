@@ -31,7 +31,7 @@
   "packages": [],
   "test": {
     "karma": {
-      "config": "./karma.conf.js"
+      "config": "./karma.config.js"
     }
   },
   "defaults": {

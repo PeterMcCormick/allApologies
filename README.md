@@ -85,4 +85,7 @@
   https://www.joshmorony.com/introduction-to-testing-ionic-2-applications-with-testbed/
   
 ## Twentieth Commit
+  Made these changes shown in the changelog.  
+
+## Twenty-first Commit
   
