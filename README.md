@@ -18,5 +18,12 @@
   
 ## Fifth Commit
   Ran: npm install codecov --save-dev
-  Installs Codecov, a code coverage addin that "Upload reports with one line"
+  Installs Codecov, a code coverage dev dependency that "Upload reports with one line".
+  
+## Sixth Commit
+  Ran: npm install jasmine-core --save-dev
+  Installs Jasmine, a JS testing framework.  It doesn't rely on browsers, DOM, or the JS framework.  It can be run 
+  across browsers.
+  
+## Seventh Commit
   
