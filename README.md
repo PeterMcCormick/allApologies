@@ -26,4 +26,6 @@
   across browsers.
   
 ## Seventh Commit
+  Ran: npm install jasmine-spec-reporter --save-dev
+  Installs Jasmine Spec Reporter which gives real time reporting within the console about tests.  
   
