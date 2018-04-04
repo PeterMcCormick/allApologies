@@ -74,14 +74,13 @@
   Ran: karma init karma.config.js  (prompts with which framework we want to use)  jasmine should be selected
     (do you want to use Require.js)  no     (Do you want to capture any browsers automatically) chrome  then enterblank
     (what is the location of your source and test files)
-  Creates a config file for karma.     (karma.config.js)
-  
+  Creates a config file for karma.     (karma.config.js) . 
+  From here on out just hit enter until the file is created.  This is just a part of configuration 
 ## Eighteenth Commit
   Congifured karma.config.js file to reflect 
   
 ## Nineteenth Commit 
-  Added April_3_2017_karma_config_js for clarification 
-  Added angular-cli.json and used configs from 
+  Added angular-cli.json file and used configs from 
   https://www.joshmorony.com/introduction-to-testing-ionic-2-applications-with-testbed/
  
 ## Twentieth Commit
@@ -126,6 +125,15 @@
     "dev": "environments/environment.ts",
     "prod": "environments/environment.prod.ts"
   }
+  
+  If you get an error about karma.conf.js then reconfigure your angular-cli.json file
+  
+  
+  "addons": [],
+  "packages": [],
+  "test": {
+    "karma": {
+      "config": "./karma.config.js"
   
   
   ///////////////////////////////// IMPORTANT \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
