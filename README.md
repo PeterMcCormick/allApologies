@@ -84,7 +84,7 @@
   https://www.joshmorony.com/introduction-to-testing-ionic-2-applications-with-testbed/
  
 ## Twentieth Commit
-  Be sure to follow https://www.joshmorony.com/introduction-to-testing-ionic-2-applications-with-testbed/ from here on out.
+  Be sure to follow https://www.joshmorony.com/introduction-to-testing-ionic-2-applications-with-testbed/ from here on.  I have gotten you up to 2.3.  
 
 ## Twenty-first Commit
   Changed karma.config.js file with the following
