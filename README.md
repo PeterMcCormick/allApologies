@@ -83,18 +83,25 @@
   Added April_3_2017_karma_config_js for clarification 
   Added angular-cli.json and used configs from 
   https://www.joshmorony.com/introduction-to-testing-ionic-2-applications-with-testbed/
-  
+ 
 ## Twentieth Commit
-  Made these changes shown in the changelog.  
+  Be sure to follow https://www.joshmorony.com/introduction-to-testing-ionic-2-applications-with-testbed/ from here on out.
 
 ## Twenty-first Commit
-  Changed karma.config.js file with the following  frameworks: ['jasmine', '@angular/cli'],
+  Changed karma.config.js file with the following
+  
+  frameworks: ['jasmine', '@angular/cli'],
+  
+  
   require('@angular/cli/plugins/karma')   
+  
+  
   preprocessors: {
         './src/test.ts': ['@angular/cli']
       },
-  We should get an error like so:
-  
+      
+      
+  We should get an error like so after generating environments folder.  
   
   
   Environment configuration does not contain "environmentSource" entry.
@@ -119,6 +126,15 @@
     "dev": "environments/environment.ts",
     "prod": "environments/environment.prod.ts"
   }
+  
+  
+  ///////////////////////////////// IMPORTANT \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+  
+  npm install zone.js@^0.8.24 --save-dev
+  
+  \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ IMPORTANT /////////////////////////////////////
+  ________________________________________________________________________________
+  
   npm ERR! Test failed.  See above for more details.
 
        /////////////////////SOLUTION\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
