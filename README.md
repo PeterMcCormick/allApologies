@@ -2,6 +2,28 @@
 
 --------------sudo ---------------
   Used outside of brew install when permissions are required to install plugins, packages, etc.
+  
+    
+  
+  The Following are commands used below for steps 1 through.  Be sure that you are in your project directory when using these commands.    
+  
+sudo npm install -g karma-cli
+sudo npm install @angular/cli --save-dev
+npm install codecov --save-dev
+npm install jasmine-core --save-dev
+npm install jasmine-spec-reporter --save-dev
+npm install karma --save-dev
+npm install karma-chrome-launcher --save-dev
+npm install karma-jasmine --save-dev
+npm install karma-mocha-reporter --save-dev
+npm install karma-remap-istanbul --save-dev
+npm install ts-node --save-dev
+npm install tslint --save-dev
+npm install tslint-eslint-rules --save-dev
+npm install @types/jasmine --save-dev
+npm install @types/node --save-dev
+npm install zone.js@^0.8.24 --save-dev
+
 
 ## First Commit 
   Project has been created and repository has been made on github.
@@ -138,7 +160,7 @@
   
   ///////////////////////////////// IMPORTANT \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
   
-  npm install zone.js@^0.8.24 --save-dev
+  
   
   \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ IMPORTANT /////////////////////////////////////
   ________________________________________________________________________________
